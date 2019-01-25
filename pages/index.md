@@ -13,7 +13,7 @@ permalink: /
         Couples Massage, Wedding Massage, Corporate Massage, Trigger Point,<br>
         Cupping, Ear Candling, Swedish, Aromatherapy, Lymphatic Drainage,<br>
         Detox Exfoliation Bodyscrub, Hot Oil Head &amp; Neck Massage and Cellulite Treatment</p>
-      <p>$85 per hour or $45 per half hour - gift vouchers available.</p>
+      <p>$135 for an hour and a half, $90 per hour or $50 per half hour - gift vouchers available.</p>
       <p>&quot;A fantastic massage with great results!&quot;</p>
       <p>Health fund rebates are available.</p>
       <p>Located at Sunshine Beach QLD.</p>
