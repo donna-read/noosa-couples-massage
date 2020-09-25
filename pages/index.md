@@ -9,7 +9,7 @@ permalink: /
     <h1>Noosa Couples Massage</h1>
     <img src="/img/hero.jpg" width="790" height="444">
     <article>
-      <p>Services:<br>Mobile Massage, Deep tissue, Hot Stone, Pregnancy Massage, Couples Massage, Ear Candling, Swedish, Aromatherapy and Hot Oil Head &amp; Neck Massage</p>
+      <p>Services:<br>Mobile Massage, Deep tissue, Hot Stone, Pregnancy Massage, Couples Massage, Ear Candling, Aromatherapy and Hot Oil Head &amp; Neck Massage</p>
       <p>Price:<br>90 mins $140<br>60 mins $90<br>30 mins $50<br>Gift vouchers available.</p>
       <p>&quot;A fantastic massage with great results!&quot;</p>
       <p>Health fund rebates are available.</p>

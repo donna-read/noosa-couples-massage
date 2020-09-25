@@ -51,17 +51,6 @@ permalink: /therapies
         The flame creates negative pressure, drawing wax and debris out of the ear canal, which appears as a dark residue.
         An ear candling session can last from 15 minutes to 45 minutes, during which time a series of one or two ear candles may be burned for each ear.</p>
 
-      <h2>Swedish</h2>
-      <p>Traditional Swedish massage was introduced by Swedish physiologist, Henri Peter Ling, in Stockholm, Sweden in the year 1812.
-        This massage technique is characterised by its firm, yet calming pressure that improves blood circulation, eases muscle tension, and improves flexibility.
-        Today, a Western-style Swedish massage still employs a series of long, gliding strokes, kneading of the muscles, and vibrational taps that are so common when one thinks of massage.
-        A Swedish masseuse will also create friction and do whats called hacking or tapping across a clients back and shoulders to promote the release of tension.
-        Five basic strokes gliding, kneading, vibrations, friction and hacking are all applied in the direction of the heart in order to encourage blood circulation and the disposal of bodily waste.
-        A Swedish massage therapist will always use massage oils to achieve the smooth, long and deep strokes over their clients body.
-        Therapists apply the oil to reduce friction, and essential oils are sometimes used in order to tap into a clients olphactory senses (sense of smell).
-        During a Swedish massage a sheet is worn, otherwise the client is nude.
-        However, body parts are only uncovered when they are being massaged.</p>
-
       <h2>Aromatherapy</h2>
       <p>Massage therapy is beneficial on its own; however when its used in conjunction with essential oils, these two therapies can be synergistically more beneficial than when they're performed separately.
         Aromatherapy massage involves a massage treatment using essential oils.
